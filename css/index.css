@@ -67,7 +67,7 @@ header nav ul li:hover a {
 /* carousel */
 
 #carousel {
-    background-image: url("/img/b3.jpg");
+    background-image: url(../img/b3.jpg);
     height: 35rem;
     background-size: cover;
     background-position: center;
@@ -191,7 +191,7 @@ header nav ul li:hover a {
     text-align: center;
 }
 #services{
-    background-image: url("/img/s1.jpg");
+    background-image: url(../img/s1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     
