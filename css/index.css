@@ -457,7 +457,7 @@ header nav ul li:hover a {
 }
 /* feedback */
 #feedback{
-    background-image: url("/img/cc1.jpg");
+    background-image: url(../img/cc1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top;
